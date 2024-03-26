@@ -3,10 +3,12 @@ In this project, advanced techniques called **Generative Adversarial Networks (G
 
 
 ## AI GENERATED IMAGES OF HANDWRITTEN DIGITS
-![image](https://github.com/radhikaa-gupta/Handwritten-Digit-Image-Generation---DCGAN/assets/123308047/0c520d2d-a195-4e66-98b7-832461e103cd)
+<img src="https://github.com/radhikaa-gupta/Handwritten-Digit-Image-Generation---DCGAN/assets/123308047/0c520d2d-a195-4e66-98b7-832461e103cd" width="300">
+
 
 
 
 ## THE AI GENERATED DIGITS CORRESPONDING TO THE NUMBERS IT ATTEMPTED TO PRODUCE.
-![Untitled design](https://github.com/radhikaa-gupta/Handwritten-Digit-Image-Generation---DCGAN/assets/123308047/e427ac8e-5fc6-4450-acbf-cb4ae025dcf3)
+<img src="https://github.com/radhikaa-gupta/Handwritten-Digit-Image-Generation---DCGAN/assets/123308047/e427ac8e-5fc6-4450-acbf-cb4ae025dcf3" width="300">
+
 
